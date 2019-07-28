@@ -1,4 +1,6 @@
 
+[![Build Status](https://etaxi.visualstudio.com/azurePipeline/_apis/build/status/desmond80in.mslearn-tailspin-spacegame-web?branchName=master)](https://etaxi.visualstudio.com/azurePipeline/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
